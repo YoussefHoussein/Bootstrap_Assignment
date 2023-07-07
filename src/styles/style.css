@@ -1,14 +1,14 @@
 body{
-    background: linear-gradient(90deg, rgba(141,194,111,1),rgba(118,184,82,1) 50%);
+    background: lightblue;
 }
 .inner-row{
     height: 100vh;
 }
 .primaryBg{
-    background-color: rgba(141,194,111,1);
+    background-color: lightblue;
 }
 .primaryColor{
-    color: rgba(141,194,111,1);
+    color: lightblue;
 }
 .form-box{
     background: #fff;
@@ -18,5 +18,5 @@ body{
     color: black;
 }
 a.register-link:hover{
-    color: rgba(141,194,111,1);
+    color: lightblue;
 }
